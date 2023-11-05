@@ -4,7 +4,7 @@
 
 <img src="./misc/images/GopportunitiesHeader.svg">
 
-<img src="./misc/images/icons/go.svg" width="25px" height="25px" alt="go" title="Go">  <img src="./misc/images/icons/github.svg" width="25px" height="25px" alt="GitHub" title="GitHub"> <img src="./misc/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="vscode" title="vscode"> <img src="./misc/images/icons/sqlite.svg" width="25px" height="25px" alt="SQLite" title="SQLite"> <img src="./misc/images/icons/swagger.svg" width="25px" height="25px" alt="Swagger" title="Swagger">
+[<img src="./misc/images/icons/go.svg" width="30px" height="30px" alt="go" title="Go">](https://go.dev/)  [<img src="./misc/images/icons/github.svg" width="30px" height="30px" alt="GitHub" title="GitHub">](https://github.com/jtonynet) [<img src="./misc/images/icons/visualstudiocode.svg" width="30px" height="30px" alt="vscode" title="vscode">](https://code.visualstudio.com/) [<img src="./misc/images/icons/postman.svg" width="30px" height="30px" alt="postman" title="postman">](https://blog.postman.com/introducing-the-postman-vs-code-extension/) [<img src="./misc/images/icons/sqlite.svg" width="30px" height="30px" alt="SQLite" title="SQLite">](https://www.sqlite.org/index.html) [<img src="./misc/images/icons/swagger.svg" width="30px" height="30px" alt="Swagger" title="Swagger">](https://swagger.io/)
 
 ![Badge Status](https://img.shields.io/badge/STATUS_DO_CURSO-ENCERRADO-blue)
 
